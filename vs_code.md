@@ -1,7 +1,7 @@
 # set shortcuts
 - View: Taggle Terminal -> Cmd＋＠
 - Add folder to workspace -> set shortcut [Cmd + Ctrl + P]
-- Remove folder From Workspace -> set shortcut [Cmd + Ctrl + P]
+- Remove folder From Workspace -> set shortcut [Cmd + Ctrl + R]
 - open settings -> File: exclude -> add some patterns to exclude files you don't wanna display
 - open settings -> Files: Auto save
 
