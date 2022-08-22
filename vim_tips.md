@@ -28,6 +28,7 @@
 | /WORD | 検索 |
 | :%s/from/to/gc | 全行置き換え |
 | shift + v then shift + > | 一括インデント | 
+| Ctrl+v then Shift+i | insert multiply line |
 
 ## nerdtree
 |コマンド  |内容  |
