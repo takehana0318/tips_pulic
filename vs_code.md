@@ -5,6 +5,8 @@
 - open settings -> File: exclude -> add some patterns to exclude files you don't wanna display
 - open settings -> Files: Auto save
 - open settings -> Editor: Word Wrap -> on
+- opne setting -> search keyboard shortcuts -> "Cmd+e"
+- opne setting -> show explorer -> "Cmd+E"
 
 # useful shortcuts
 |  explanation  | Command |

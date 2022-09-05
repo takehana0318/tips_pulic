@@ -1,8 +1,16 @@
 # Tips of Tmux
 
 ## settings
-[OSのクリップボードと同期](https://maku.blog/p/tb6s2ck/)
-[tmuxでコピペ](https://qiita.com/chatrate/items/394122d3225ab42ca6f1)
+[OSのクリップボードと同期](https://maku.blog/p/tb6s2ck/)  
+[tmuxでコピペ](https://qiita.com/chatrate/items/394122d3225ab42ca6f1)  
+
+## tmux conf
+```
+bind -n C-o select-pane -t :.+
+bind -n C-p select-window -t :-
+bind -n C-n select-window -t :+
+bind -n C-k copy-mode
+```
 
 ## session
 | コマンド | 内容 |
